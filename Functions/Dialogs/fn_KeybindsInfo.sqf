@@ -1,0 +1,1 @@
+["<br/><t size='0.8'>SHIFT + O: Ear Plugs<br/>P: Player Stats<br/>H: Heal<br/>SHIFT + T: Teleporter<br/>SHIFT + 2: Vehicle Menu</t>", "success", 15, "Keybindings"] call Vortex_fnc_notification_system;

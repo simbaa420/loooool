@@ -1,0 +1,13 @@
+removeAllWeapons player;
+removeAllItems player;
+removeAllAssignedItems player;
+removeUniform player;
+removeVest player;
+removeBackpack player;
+removeHeadgear player;
+removeGoggles player;
+player forceAddUniform "U_O_R_Gorka_01_F";
+player addHeadgear "H_Cap_usblack";
+player addGoggles "G_Balaclava_TI_blk_F";
+player addWeapon "ItemGPS";
+player addWeapon "ItemMap";
